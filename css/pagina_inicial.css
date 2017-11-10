@@ -1,0 +1,172 @@
+/*
+    CSS customizado relativo a pagina index.html
+*/
+/* 
+    Created on : 09/11/2017, 16:07:38
+    Author     : cesar.aojunior
+*/
+
+/*
+CSS responsavel pelo comportamento do index.html
+*/
+/* 
+    Created on : 24/10/2017, 14:25:43
+    Author     : cesar.aojunior
+*/
+
+/* Gradiente do Body */
+body{ background: linear-gradient(to right, #B1BDC5 0%,#9AA5AB 100%); }
+
+/* Divisao Cabeçalho (Header) */
+#header 
+{
+    max-width: 852px;
+    margin: 0 auto;
+}
+
+#header .header-logo img
+{
+    max-width: 180px;
+    margin: 20px 30px;
+}
+
+#header .header-social-media
+{
+    float: right;
+    margin-top: -120px;
+    margin-right: 30px;
+}
+#header .header-social-media a
+{
+    text-decoration: none;
+/*    color: #fff;*/
+    padding: 8px;
+    margin: 5px;
+}
+
+#header .header-social-media a:hover
+{
+    color: #7F7F7F ;
+}
+
+/* Menu */
+#header .header-menu ul 
+{
+    list-style-type: none;
+}
+
+#header .header-menu ul li
+{
+    display: inline;
+    padding: 17px 9%;
+    background-color: #ccc;
+}
+
+#header .header-menu ul li:hover
+{
+    background-color: aquamarine;
+}
+
+#header .header-menu ul li a
+{
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    font-family: serif;
+}
+
+#header .navbar.navbar-default /* class="navbar navbar-default"*/
+{
+    max-width: 775px;
+    margin-left: 35px;
+}
+
+#header .navbar-nav
+{
+    margin: 0 30%;
+}
+
+
+/* Nav*/
+#nav
+{
+    max-width: 852px;
+    margin: 30px auto;
+    height: 420px;
+    /*border: solid 1px; remover depois (linha guia)*/
+}
+
+#nav #nav-grande
+{
+   max-width: 416px;
+   margin-left: 40px;
+   padding: 5px;
+   height: 400px;
+   float: left;
+}
+
+#nav .modal-header
+{
+    border: none;
+}
+
+#nav #nav-grande img
+{
+    max-width: 120px;
+    border: solid #000;
+    float: left;
+    margin: 20px;    
+}
+
+#nav #nav-grande p
+{
+    text-align: justify;
+    padding: 10px;
+}
+
+#nav #nav-grande a
+{
+    float: right;
+}
+
+#nav #nav-pequeno 
+{
+    max-width: 335px;
+    float: left;
+    margin: 0 15px 8px;
+}
+
+#nav #nav-pequeno img
+{
+    max-width: 120px;
+    border: solid #000;
+    float: left;
+    margin: 17px;
+}
+
+#nav #nav-pequeno p
+{
+    text-align: justify;
+}
+
+#nav #nav-pequeno a
+{
+    float: right;
+}
+
+#footer 
+{
+    max-width: 780px;
+    margin: 0 auto;
+}
+
+#footer p
+{
+    text-align: center;
+    padding-top: 15px;
+}
+
+#footer .nav.navbar-nav
+{
+    float: none;
+}

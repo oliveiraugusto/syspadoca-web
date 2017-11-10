@@ -1,0 +1,48 @@
+/*
+CSS responsavel pela customização da pagina arearestrita.html
+*/
+/* 
+    Created on : 09/11/2017, 13:47:33
+    Author     : cesar.aojunior
+*/
+
+body {background-color: #EEEEEE;}
+
+h1{text-align: center;}
+
+.container
+{
+    max-width: 300px;
+}
+
+#formAuth
+{
+    max-width: 775px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 6px;
+}
+p
+{
+   text-align: center;
+   font-weight: bold;
+}
+
+input
+{
+    margin: 0 auto;
+    display: block;
+    border-radius: 6px;
+}
+
+.btn
+{
+    margin: 18px;
+}
+
+a
+{
+    display: block;
+    text-align: center;
+}
