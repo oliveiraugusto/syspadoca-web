@@ -3,7 +3,7 @@
 Este sistema gerencia é uma aplicação web de uma padaria Ficticia 
 com cadastro de Noticias, e uma Área Administrativa
 
-Possui tambem integração com banco de dados MySQL atraves de string de conexao
+Possui tambem integração com banco de dados MySQL atraves do PDO
 
 O codigo esta todo comentado (linha a linha) para uma melhor compreensão
 
