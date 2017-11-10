@@ -7,10 +7,10 @@ Possui tambem integração com banco de dados MySQL atraves do PDO
 
 O codigo esta todo comentado (linha a linha) para uma melhor compreensão
 
-Este é o sistema utilizado no aprendizado em HTML + CSS + JS + PHP + MySQL
-com usando NetBeans e xampp no Curso Tecnico em Informatica  do Senac Botucatu
+Este é o sistema utilizado no aprendizado em HTML + CSS + JS + PHP + MySQL,
+usando NetBeans e Xampp, no Curso Tecnico em Informatica do Senac Botucatu
 
-Clone, altere e use da melhor forma que achar necessario
+Clone, altere e use da melhor forma que achar necessario.
 Este Repositorio estará sempre em atualização
 
 Para duvidas ou sugestões, entre em contato com:
